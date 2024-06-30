@@ -44,7 +44,7 @@ function Dashboard_main() {
 		case "Rules":
 			content = <Rules />;
 			break;
-		case "Mnnit Alld":
+		case "Nit Jsr":
 			content = <Mnnit />;
 			break;
 		case "Contact":

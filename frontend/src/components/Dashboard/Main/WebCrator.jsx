@@ -17,11 +17,11 @@ const StudentDetails = () => {
 
   const studentData = [
     {
-      Name: "Anuj Tyagi",
+      Name: "Adarsh Kumar",
       Registration_no: 20224027,
-      LinkedIn: "anuj-tyagi-a33265266",
-      GitHub: "anujtyagi234",
-      Instagram: "anujtyagi234",
+      LinkedIn: "adarsh-kumar-960205260",
+      GitHub: "WhileAdarsh",
+      Instagram: "adarsh_kumar_9009",
       color: 'green',
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmv007LWIhwfQztKw6AALPl5zNrtIIvolBqach9_iYtw3DgPlPwGKCwKJ5GhwXGhVP6rk&usqp=CAU",
       customStyle: {
@@ -31,12 +31,12 @@ const StudentDetails = () => {
       },
     },
     {
-      Name: "Sumit Chaurasiya",
+      Name: "Aman Kumar",
       Registration_no: 20223274,
-      LinkedIn: "sumit-chaurasiya-a0676026a",
+      LinkedIn: "aman-kumar-b74272270",
 
-      GitHub: "Sumit524",
-      Instagram: "sumitchaurasiya1241",
+      GitHub: "Amans008",
+      Instagram: "aman._.42",
       color: 'yellow',
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aJZEZmb7jLq3lwFvZITon73dd73gkvlo0v0SieeWhZdZY9_7VSkntK1n3J3IvshxLbU&usqp=CAU",
       customStyle: {
@@ -46,11 +46,11 @@ const StudentDetails = () => {
       },
     },
     {
-      Name: "Kushagra Verma",
+      Name: "Tejaswi Kumar",
       Registration_no: 20224089,
-      LinkedIn: "kushagra-verma-a178b7253",
-      GitHub: "kushagra572",
-      Instagram: "kushagraverma4321",
+      LinkedIn: "tejaswi-kumar-a27075317",
+      GitHub: "Tejaswi-kumar63",
+      Instagram: "tejaswi_kumar63",
       color: 'red',
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCarTW0rnj7kIJAlj96k__8IDu604AwpJeOgrhuMDF5iATjzPJMezVN5bLOGphIoqzuCI&usqp=CAU",
       customStyle: {
